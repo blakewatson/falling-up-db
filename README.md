@@ -1,6 +1,8 @@
 # Falling Up (and friends) lyrics archive
 
-This is a work in progress searchable database of lyrics Falling Up and related projects.
+This is a work-in-progress, searchable database of lyrics Falling Up and related projects.
+
+These lyrics belong to the artist(s). The rest of the site code is released under the MIT license.
 
 ## How to run locally
 
