@@ -1,0 +1,19 @@
+{
+  "name": "falling-up-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "serve": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "prettier": "3.5.2"
+  }
+}

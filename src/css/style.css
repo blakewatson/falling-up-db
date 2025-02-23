@@ -1,0 +1,9 @@
+.filters {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.snippet {
+  border-block-end: 1px solid #646b79;
+}
