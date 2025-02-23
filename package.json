@@ -4,6 +4,7 @@
   "description": "",
   "main": "scraper.js",
   "scripts": {
+    "build": "eleventy",
     "serve": "eleventy --serve"
   },
   "keywords": [],
